@@ -1,0 +1,7 @@
+{
+  "name": "ThumbCraft AI",
+  "description": "A specialized AI-powered thumbnail editor that uses Gemini 2.5 Flash Image to transform ideas and existing images into high-impact, 16:9 YouTube thumbnails via a conversational chat interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
